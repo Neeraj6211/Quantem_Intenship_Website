@@ -2,7 +2,7 @@
 
 This repository contains the complete redesign and redevelopment of the QuantEM JEE Academy website. The website was redeveloped as a part of my second year summer internship with Quantem Edutech. The primary aim of the project was to enhance the overall aesthetic, improve user experience and optimize the performance of the website.
 
-![Website Preview](https://quantemjeeacademy.com/)
+##Live Website : [QuantEM JEE Academy](https://quantemjeeacademy.com/).
 
 ## Technologies Used
 
