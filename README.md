@@ -46,9 +46,7 @@ This was a 3-month long project during my second year summer internship at Quant
 - Incorporate a blog section for articles and other resources
 - Further improve UI/UX based on user feedback
 
-## Contact Information
 
-Please feel free to contact me if you have any questions or if you want to discuss this project further. You can reach out to me at [Your Email](mailto:youremail@gmail.com)
 
 Also, any contributions to the project are welcomed. Feel free to fork the project and create a pull request with your changes.
 
